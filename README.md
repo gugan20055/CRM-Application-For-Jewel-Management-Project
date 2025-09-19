@@ -1,1 +1,1 @@
-# CRM-Application-For-Jewel-Management-Project
+# CRM-Application-For-Jewel-Management-Developer-Project
